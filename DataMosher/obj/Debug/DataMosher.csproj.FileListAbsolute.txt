@@ -1,0 +1,11 @@
+C:\straineeq\cpp_projects\DataMosher\DataMosher\bin\Debug\DataMosher.exe.config
+C:\straineeq\cpp_projects\DataMosher\DataMosher\bin\Debug\DataMosher.exe
+C:\straineeq\cpp_projects\DataMosher\DataMosher\bin\Debug\DataMosher.pdb
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.csproj.AssemblyReference.cache
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.csproj.SuggestedBindingRedirects.cache
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.Form1.resources
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.Properties.Resources.resources
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.csproj.GenerateResource.cache
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.csproj.CoreCompileInputs.cache
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.exe
+C:\straineeq\cpp_projects\DataMosher\DataMosher\obj\Debug\DataMosher.pdb
